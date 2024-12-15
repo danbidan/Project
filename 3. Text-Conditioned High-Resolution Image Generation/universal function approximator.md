@@ -15,7 +15,7 @@ jupyter:
     execute: never
 ---
 
-# 실습 5: Universal Function Approximator 학습시키기
+# Universal Function Approximator 학습시키기
 
 
 Universal Approximation Theorem에 의거하여 보편적인 함수 $f$의 근사함수 $F$의 모델을 $ F(\{v_i\}, \{\textbf{w}_i\}, \{b_i\}; \textbf{x}) = \sum_{i=1}^{N} v_{i}\varphi(\textbf{x} \cdot \textbf{w}_{i} + b_{i})$ 로 세우고 학습을 진행해볼 것이다.
