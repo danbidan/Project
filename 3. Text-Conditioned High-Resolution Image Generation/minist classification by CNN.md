@@ -15,7 +15,7 @@ jupyter:
     execute: never
 ---
 
-# 실습 9: CNN을 이용한 MNIST 분류
+# CNN을 이용한 MNIST 분류
 
 
 본 실습에서 사용하는 데이터셋(MNIST)의 출처는 다음과 같음을 밝힌다.
